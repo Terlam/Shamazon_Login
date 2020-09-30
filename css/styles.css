@@ -4,8 +4,9 @@ fieldset{
     border-radius: 2px;
     border: 1.5px solid rgb(211, 207, 207);
     padding: 20px;
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 10px;
 }
 
 input{
@@ -20,7 +21,7 @@ input{
     font-size: x-small;
     background-color: #ff990094;
     color: black;
-    border-color:grey;
+    border-color:rgb(211, 207, 207);
     border-radius: 1px;
 }
 
@@ -28,12 +29,14 @@ input{
     background-color: rgb(238, 238, 238);
     font-size: x-small;
     border: rgb(226, 226, 226);
-    color: black;
+    color: grey;
     border-radius: 2px;
     border: 1.5px solid rgb(211, 207, 207);
     padding: 20px;
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-left: 16%;
+    margin-right: 16%;
+    
+   
 }
 
 p{
@@ -42,4 +45,10 @@ p{
 
 .row{
     padding: 10px;
+}
+
+.linetxt{
+    color: rgb(202, 202, 202);
+    text-align: center;
+    position: relative;
 }
